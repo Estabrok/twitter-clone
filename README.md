@@ -1,6 +1,6 @@
 ## Twitter-clone
 ```
-Let's make simple Twitter. Users can post tweets and see everyone's
+Let's make simple Twitter. Users can post tweets and see everyone's tweet
 To make the project simple, we do not have a sign/login function
 So there are not user accounts and follow function
 ```
@@ -17,7 +17,7 @@ Check out [LIVE Twitter clone DEMO](https://estabrok-twitter-clone.herokuapp.com
 * Django
 * Cloudinary (To host uploaded images on CDN)
 ```
-## User Story
+## Functionality
 ```
 * Users can post tweets
 * Users can edit tweets
